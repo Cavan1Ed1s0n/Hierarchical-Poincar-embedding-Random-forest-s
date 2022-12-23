@@ -14,3 +14,11 @@ Ngữ cảnh áp dụng:
 - Tìm cách đưa dữ liệu này thành dạng liên tục làm input cho ANN.
 
 [Lars' Blog - Implementing Poincaré Embeddings in PyTorch (lars76.github.io)](https://lars76.github.io/2020/07/24/implementing-poincare-embedding.html) (nhớ chặn chuẩn các vector <1)
+
+
+
+https://www.slideshare.net/daynap1204/poincare-embeddings-for-learning-hierarchical-representations
+
+https://arxiv.org/pdf/1705.08039.pdf
+
+https://arxiv.org/pdf/2112.04871.pdf
