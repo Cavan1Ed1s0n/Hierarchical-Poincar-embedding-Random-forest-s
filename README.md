@@ -22,3 +22,5 @@ https://www.slideshare.net/daynap1204/poincare-embeddings-for-learning-hierarchi
 https://arxiv.org/pdf/1705.08039.pdf
 
 https://arxiv.org/pdf/2112.04871.pdf
+
+https://drive.google.com/drive/u/0/folders/1t-QNbY7NS8JdcjEcjM6dVHptiPd5yAvF
