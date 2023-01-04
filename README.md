@@ -28,3 +28,7 @@ https://drive.google.com/drive/u/0/folders/1t-QNbY7NS8JdcjEcjM6dVHptiPd5yAvF
 https://colab.research.google.com/drive/13-nOoOzFjiDlFOQEepc91Nj3t45PIjQw#scrollTo=N7kwZzX89gzh
 
 https://github.com/drewwilimitis/hyperbolic-learning
+
+https://medium.com/@sri33/explaining-poincar%C3%A9-embeddings-d7cb9e4a2bbf
+
+https://rare-technologies.com/implementing-poincare-embeddings/
