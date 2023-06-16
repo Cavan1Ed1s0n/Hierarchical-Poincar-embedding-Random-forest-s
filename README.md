@@ -18,11 +18,19 @@ Ngữ cảnh áp dụng:
 
 ### References
 [What is Poincaré Embeddings](https://medium.com/@sri33/explaining-poincar%C3%A9-embeddings-d7cb9e4a2bbf)
+
 [Hyperbolic-Learning](https://github.com/drewwilimitis/hyperbolic-learning)
+
 [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/pdf/1705.08039.pdf)
+
 [Explaination for Poincaré Embeddings for Learning Hierarchical Representations](https://www.slideshare.net/daynap1204/poincare-embeddings-for-learning-hierarchical representations)
+
 [KGE-CL: Contrastive Learning of Tensor Decomposition Based Knowledge Graph Embeddings](https://arxiv.org/pdf/2112.04871.pdf)
+
+[Implement Poincare Embeddings](https://rare-technologies.com/implementing-poincare-embeddings/)
+
 [Code run on colab](https://colab.research.google.com/drive/13-nOoOzFjiDlFOQEepc91Nj3t45PIjQw#scrollTo=N7kwZzX89gzh)
+
 [Resource](https://drive.google.com/drive/u/0/folders/1RfYoT_yNK9hMNrWsRaYEDqhpWTKfOQ5Y)
 
 
