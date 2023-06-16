@@ -23,7 +23,7 @@ Ngữ cảnh áp dụng:
 
 [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/pdf/1705.08039.pdf)
 
-[Explaination for Poincaré Embeddings for Learning Hierarchical Representations](https://www.slideshare.net/daynap1204/poincare-embeddings-for-learning-hierarchical representations)
+[Explaination for Poincaré Embeddings for Learning Hierarchical Representations](https://www.slideshare.net/daynap1204/poincare-embeddings-for-learning-hierarchical)
 
 [KGE-CL: Contrastive Learning of Tensor Decomposition Based Knowledge Graph Embeddings](https://arxiv.org/pdf/2112.04871.pdf)
 
