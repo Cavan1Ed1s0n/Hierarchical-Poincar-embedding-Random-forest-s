@@ -16,12 +16,12 @@ Ngữ cảnh áp dụng:
 [Lars' Blog - Implementing Poincaré Embeddings in PyTorch (lars76.github.io)](https://lars76.github.io/2020/07/24/implementing-poincare-embedding.html) (nhớ chặn chuẩn các vector <1)
 
 
-
+### References
 https://www.slideshare.net/daynap1204/poincare-embeddings-for-learning-hierarchical-representations
 
-https://arxiv.org/pdf/1705.08039.pdf
+Poincaré Embeddings for Learning Hierarchical Representations https://arxiv.org/pdf/1705.08039.pdf
 
-https://arxiv.org/pdf/2112.04871.pdf
+KGE-CL: Contrastive Learning of Tensor Decomposition Based Knowledge Graph Embeddings https://arxiv.org/pdf/2112.04871.pdf
 
 https://drive.google.com/drive/u/0/folders/1RfYoT_yNK9hMNrWsRaYEDqhpWTKfOQ5Y
 
